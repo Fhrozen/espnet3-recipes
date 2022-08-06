@@ -1,0 +1,3 @@
+[submodule "utils/kaldi_utils"]
+	path = utils/kaldi_utils
+	url = https://github.com/Fhrozen/kaldi_utils
